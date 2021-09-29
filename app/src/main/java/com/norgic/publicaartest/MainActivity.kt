@@ -5,10 +5,9 @@ import android.os.Bundle
 import com.vdotok.streaming.CallClient
 
 class MainActivity : AppCompatActivity() {
-
+    
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-    
 }
