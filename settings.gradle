@@ -1,0 +1,3 @@
+include ':StreamingSDK'
+include ':app'
+rootProject.name = "PublicAARTest"
